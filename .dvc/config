@@ -1,5 +1,6 @@
 [core]
     autostage = true
     remote = storage
+    hardlink_lock = true
 ['remote "storage"']
     url = gdrive://1akeDzui_KlEy3f8nqHJ5cdyBIu4JyFKu
